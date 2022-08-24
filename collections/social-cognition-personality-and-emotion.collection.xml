@@ -1,44 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Report">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Report" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11432</md:content-id>
-  <md:title>Social Cognition, Personality, and Emotion</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>7b1b07fc-feda-4721-a229-cdf583e1e047</md:uuid>
-<md:slug>social-cognition-personality-and-emotion</md:slug>
-</metadata>
-
+    <md:content-id>col11432</md:content-id>
+    <md:title>Social Cognition, Personality, and Emotion</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7b1b07fc-feda-4721-a229-cdf583e1e047</md:uuid>
+    <md:slug>social-cognition-personality-and-emotion</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m43691"/>
-        
-      
-    
-    
-      <col:module document="m43692"/>
-        
-      
-    
-    
-      <col:module document="m43693"/>
-        
-      
-    
-    
-      <col:module document="m43694"/>
-        
-      
-    
-    
-      <col:module document="m43695"/>
-        
-      
-    
+    <col:module document="m43691"/>
+    <col:module document="m43692"/>
+    <col:module document="m43693"/>
+    <col:module document="m43694"/>
+    <col:module document="m43695"/>
   </col:content>
 </col:collection>
